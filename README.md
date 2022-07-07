@@ -1,8 +1,9 @@
 
-# Fetch DummyJSON API with Flutter
+# UAS MOBILE PROGRAMMING
+GIWANG EKA RISTI  / 19.0504.0012 / 6A
 
 
-## Demo
+## Demo Aplikasi
+Berikut merupakan demo aplikasi yang telah saya buat
 
-Here is a demo of the application.
 
